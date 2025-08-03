@@ -1,6 +1,6 @@
 # accountability
 
-"Initial commit — Statement on self-accountability and growth"
+Initial commit — Statement on self-accountability and growth
 
 **Not all growth shows up on resumes.**
 Some of it happens quietly — in the dark, through pain, mistakes, and the long road of holding yourself accountable to your values.
